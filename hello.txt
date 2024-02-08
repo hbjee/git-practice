@@ -8,5 +8,7 @@ print("hello test1")
 print("hello test2")
 print("hello test2-")
 
+print("hello, Jun")
+
 print("task8")
 print("task9")
